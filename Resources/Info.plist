@@ -7,7 +7,7 @@
     <key>CFBundleExecutable</key>
     <string>Authenticator</string>
     <key>CFBundleIdentifier</key>
-    <string>kr.danbiedu.wook.Authenticator</string>
+    <string>dev.wook-dragon.Authenticator</string>
     <key>CFBundleInfoDictionaryVersion</key>
     <string>6.0</string>
     <key>CFBundleName</key>
